@@ -1,5 +1,3 @@
-[![Kenneth's GitHub stats](https://github-stats-extended.vercel.app/api?username=kennethfoo24)](https://github.com/stats-organization/github-stats-extended)
-
 <!--
 **kennethfoo24/kennethfoo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
