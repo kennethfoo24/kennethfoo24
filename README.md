@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [![Kenneth's GitHub stats](https://github-stats-extended.vercel.app/api?username=kennethfoo24)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
